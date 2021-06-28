@@ -2,3 +2,4 @@ hello atguigu
 hello shanghai
 bigdate welcome $$$$$$$$$$$$$$$$$$$$$$$$
 lalalal
+                                         allow
